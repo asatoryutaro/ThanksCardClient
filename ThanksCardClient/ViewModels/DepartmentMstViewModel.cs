@@ -6,6 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using ThanksCardClient.Models;
 
+
 namespace ThanksCardClient.ViewModels
 {
     public class DepartmentMstViewModel : BindableBase, INavigationAware
